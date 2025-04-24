@@ -1,0 +1,17 @@
+/.vscode
+/node_modules
+/.idea
+/.DS_Store
+/.env
+/.env.test
+/.env.production
+/.env.development
+/.env.local
+/.env.development.local
+./dist
+/.cache
+/.parcel-cache
+
+*.env
+.env
+.env.*

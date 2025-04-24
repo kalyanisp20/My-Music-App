@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* # Install Tailwind CSS via npm
+
+npm install -D tailwindcss postcss autoprefixer
+
+
+
+# Initialize Tailwind CSS configuration
+
+npx tailwindcss init */
